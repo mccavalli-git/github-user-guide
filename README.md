@@ -15,3 +15,4 @@ This guide introduces new users to GitHub and explains how to create repositorie
 ## Intended Audience
 
 This guide is designed for beginners with little or no experience using GitHub.
+
